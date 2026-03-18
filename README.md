@@ -1,4 +1,4 @@
-[← レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
 
 # Choiizuka-Spec
 CHOIIZUKA Spec.
